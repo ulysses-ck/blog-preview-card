@@ -21,6 +21,13 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+#### Mobile
+![image](https://github.com/ulysses-ck/blog-preview-card/assets/50756389/e4831cd5-9dba-4690-a1f9-13190647cfae)
+
+#### Desktop
+![image](https://github.com/ulysses-ck/blog-preview-card/assets/50756389/c0de97bf-d4f5-4c3d-80ea-04280ea81193)
+
+
 
 ### Links
 
