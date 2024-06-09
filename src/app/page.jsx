@@ -5,10 +5,9 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex flex-col items-left border border-black bg-white rounded-lg p-6 shadow max-w-[300px] gap-2">
+    <main className="flex flex-col items-left border border-black bg-white rounded-lg p-6 shadow max-w-[300px] lg:max-w-[500px] gap-2 drop-shadow-[20px_20px_0px_#000000]">
       <GenericMediaContainer
-        width="260px"
-        className="mb-4 rounded-lg overflow-hidden"
+        className="mb-4 w-[260px] rounded-lg overflow-hidden lg:w-[450px] lg:max-w-[500px]"
       >
         <IllustrationPreview />
       </GenericMediaContainer>
